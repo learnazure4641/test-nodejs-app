@@ -1,4 +1,4 @@
-# Build and Deploy nodejs application on EC2 instance - Freestyle 
+# Build and Deploy nodejs application on Azure VM instance - Freestyle 
 
 # Pre-requisites
 
